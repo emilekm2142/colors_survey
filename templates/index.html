@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.6/socket.io.min.js"></script>
+<script type="text/javascript" charset="utf-8">
+    var socket = io.connect('http://' + document.domain + ':' + location.port);
+    socket.on('connect', function() {
+        console.log("connection");
+        socket.emit('sample', {data: 'I\'m connected!'});
+    });
+    socket.on("aliveCheck", function () {
+       console.log("alive check requested. I am alive!");
+    });
+    socket.on("changeColors", function (data) {
+        $(".left").css("background-color", data[0]);
+    });
+</script>
+    <style>
+        *{
+            margin:0px;padding:0px;
+        }
+        .left, .right{
+            position: absolute;
+            width: 50%;
+             transition: 2000ms ease all;
+              z-index:0;
+        }
+
+        .left{
+            left:0%;
+
+            width:50%;
+
+            background-color:blue;
+        }
+        .right{
+           left:50%;
+            background-color:red;
+
+        }
+        .left:hover, right:hover{
+            transform: scale(1.1);
+
+        }
+        body{
+            overflow:hidden;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<button id="sendTest1">test</button>
+<section class="container">
+<section class="left">left</section>
+<section class="right">right</section>
+    </section>
+<script>
+        $(document).ready(function () {
+            console.log("r");
+            $(".left, .right, .container").css("height",window.innerHeight);
+            //$(".left, .right").css("width",window.innerWidth/2);
+            //$(".left").css("left",window.innerWidth/2)
+
+        $("#sendTest1").click(function () {
+           socket.emit("selection",{"selections":["#3498db","#3498db"],"color":"#3498db"});
+           console.log("test");
+        });
+    });
+
+</script>
+</body>
+</html>
