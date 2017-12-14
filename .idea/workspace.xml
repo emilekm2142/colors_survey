@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9550400-7ea7-4092-be42-51f163c5833f" name="Default" comment="" />
+    <list default="true" id="d9550400-7ea7-4092-be42-51f163c5833f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.db" afterPath="$PROJECT_DIR$/db.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +54,8 @@
       <file leaf-file-name="flasktest2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flasktest2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="75" column="96" lean-forward="false" selection-start-line="75" selection-start-column="96" selection-end-line="75" selection-end-column="96" />
+            <state relative-caret-position="44">
+              <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
                 <marker date="1513264481163" expanded="true" signature="1698:1772" ph="INSERT INTO Answers... " />
@@ -64,11 +68,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Sessions" pinned="false" current-in-tab="false">
+        <entry file="das://table:/34dacbad/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/main.Sessions">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="console.sql" pinned="false" current-in-tab="true">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/console.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+              <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -91,6 +104,9 @@
       <find>remove</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -112,6 +128,7 @@
     <option name="width" value="1294" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -206,7 +223,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -256,8 +273,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/flasktest2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="75" column="96" lean-forward="false" selection-start-line="75" selection-start-column="96" selection-end-line="75" selection-end-column="96" />
+        <state relative-caret-position="44">
+          <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
             <marker date="1513264481163" expanded="true" signature="1698:1772" ph="INSERT INTO Answers... " />
@@ -269,10 +286,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="das://table:/34dacbad/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/main.Sessions">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="20" lean-forward="false" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
           <folding />
         </state>
       </provider>
