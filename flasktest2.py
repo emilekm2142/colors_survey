@@ -132,7 +132,10 @@ def handle_selection_training(data):
     client = Client.get_by_id(request.sid)
     client.answers.append(answer_object)
     # skomplikowany algorytm
-    send_new_random_color(client.id)
+    if MODE=="comparision":
+        send_new_random_colors(client.id)
+    else:
+        send_new_random_color(client.id)
 @socketio.on("test1")
 def test():
     print("recv")
