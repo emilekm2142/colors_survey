@@ -148,4 +148,4 @@ def determine_next_color(prev_answers:list)->str:
 def save_client_to_database(client:Client):
     pass
 if __name__ == '__main__':
-    socketio.run(app)
+    socketio.run(app, host='0.0.0.0')
