@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9550400-7ea7-4092-be42-51f163c5833f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata" afterPath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata.keystream" afterPath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata.keystream" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata.keystream.len" afterPath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata.keystream.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata.len" afterPath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata_i" afterPath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata_i" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata_i.len" afterPath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata_i.len" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flasktest2.py" afterPath="$PROJECT_DIR$/flasktest2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/trenowanie.html" afterPath="$PROJECT_DIR$/templates/trenowanie.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,17 +60,17 @@
       <file leaf-file-name="flasktest2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flasktest2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="137" column="8" lean-forward="false" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
+            <state relative-caret-position="51">
+              <caret line="69" column="86" lean-forward="false" selection-start-line="69" selection-start-column="86" selection-end-line="69" selection-end-column="86" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
-                <marker date="1515613922374" expanded="true" signature="1824:1919" ph="INSERT INTO Answers_compare... " />
-                <marker date="1515613922374" expanded="true" signature="2108:2175" ph="INSERT INTO Sessions... " />
-                <marker date="1515613922374" expanded="true" signature="2411:2485" ph="INSERT INTO Answers... " />
-                <marker date="1515613922374" expanded="true" signature="2609:2676" ph="INSERT INTO Sessions... " />
-                <marker date="1515613922374" expanded="true" signature="3540:3611" ph="INSERT INTO Answers... " />
-                <marker date="1515613922374" expanded="true" signature="3540:3614" ph="INSERT INTO Answers... " />
-                <marker date="1515613922374" expanded="true" signature="3750:3822" ph="INSERT INTO Sessions... " />
+                <marker date="1515767625439" expanded="true" signature="2282:2377" ph="INSERT INTO Answers_compare... " />
+                <marker date="1515767625439" expanded="true" signature="2566:2633" ph="INSERT INTO Sessions... " />
+                <marker date="1515767625439" expanded="true" signature="2869:2943" ph="INSERT INTO Answers... " />
+                <marker date="1515767625439" expanded="true" signature="3067:3134" ph="INSERT INTO Sessions... " />
+                <marker date="1515767625439" expanded="true" signature="4090:4161" ph="INSERT INTO Answers... " />
+                <marker date="1515767625439" expanded="true" signature="4090:4164" ph="INSERT INTO Answers... " />
+                <marker date="1515767625439" expanded="true" signature="4300:4372" ph="INSERT INTO Sessions... " />
               </folding>
             </state>
           </provider>
@@ -71,8 +79,8 @@
       <file leaf-file-name="trenowaniev2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/trenowaniev2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="340">
+              <caret line="49" column="9" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="49" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -100,8 +108,8 @@
       <file leaf-file-name="trenowanie.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/trenowanie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state relative-caret-position="297">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -120,9 +128,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/templates/trenowanie.html" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/console.sql" />
         <option value="$PROJECT_DIR$/templates/trenowaniev2.html" />
+        <option value="$PROJECT_DIR$/templates/trenowanie.html" />
         <option value="$PROJECT_DIR$/flasktest2.py" />
       </list>
     </option>
@@ -155,6 +163,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,7 +181,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -285,17 +293,65 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/flasktest2.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+            <marker date="1515767625439" expanded="true" signature="2282:2377" ph="INSERT INTO Answers_compare... " />
+            <marker date="1515767625439" expanded="true" signature="2566:2633" ph="INSERT INTO Sessions... " />
+            <marker date="1515767625439" expanded="true" signature="2869:2943" ph="INSERT INTO Answers... " />
+            <marker date="1515767625439" expanded="true" signature="3067:3134" ph="INSERT INTO Sessions... " />
+            <marker date="1515767625439" expanded="true" signature="4090:4161" ph="INSERT INTO Answers... " />
+            <marker date="1515767625439" expanded="true" signature="4090:4164" ph="INSERT INTO Answers... " />
+            <marker date="1515767625439" expanded="true" signature="4300:4372" ph="INSERT INTO Sessions... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/trenowaniev2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/34dacbad/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/main.Sessions">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/trenowanie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flasktest2.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1037">
           <caret line="67" column="25" lean-forward="false" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
-            <marker date="1515613922374" expanded="true" signature="1824:1919" ph="INSERT INTO Answers_compare... " />
-            <marker date="1515613922374" expanded="true" signature="2108:2175" ph="INSERT INTO Sessions... " />
-            <marker date="1515613922374" expanded="true" signature="2411:2485" ph="INSERT INTO Answers... " />
-            <marker date="1515613922374" expanded="true" signature="2609:2676" ph="INSERT INTO Sessions... " />
-            <marker date="1515613922374" expanded="true" signature="3540:3611" ph="INSERT INTO Answers... " />
-            <marker date="1515613922374" expanded="true" signature="3540:3614" ph="INSERT INTO Answers... " />
-            <marker date="1515613922374" expanded="true" signature="3750:3822" ph="INSERT INTO Sessions... " />
+            <marker date="1515767625439" expanded="true" signature="2282:2377" ph="INSERT INTO Answers_compare... " />
+            <marker date="1515767625439" expanded="true" signature="2566:2633" ph="INSERT INTO Sessions... " />
+            <marker date="1515767625439" expanded="true" signature="2869:2943" ph="INSERT INTO Answers... " />
+            <marker date="1515767625439" expanded="true" signature="3067:3134" ph="INSERT INTO Sessions... " />
+            <marker date="1515767625439" expanded="true" signature="4090:4161" ph="INSERT INTO Answers... " />
+            <marker date="1515767625439" expanded="true" signature="4090:4164" ph="INSERT INTO Answers... " />
+            <marker date="1515767625439" expanded="true" signature="4300:4372" ph="INSERT INTO Sessions... " />
           </folding>
         </state>
       </provider>
@@ -330,14 +386,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/trenowanie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://table:/34dacbad/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/main.Sessions">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
@@ -355,25 +403,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/trenowaniev2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="340">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="49" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/trenowanie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flasktest2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="137" column="8" lean-forward="false" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
+        <state relative-caret-position="51">
+          <caret line="69" column="86" lean-forward="false" selection-start-line="69" selection-start-column="86" selection-end-line="69" selection-end-column="86" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
-            <marker date="1515613922374" expanded="true" signature="1824:1919" ph="INSERT INTO Answers_compare... " />
-            <marker date="1515613922374" expanded="true" signature="2108:2175" ph="INSERT INTO Sessions... " />
-            <marker date="1515613922374" expanded="true" signature="2411:2485" ph="INSERT INTO Answers... " />
-            <marker date="1515613922374" expanded="true" signature="2609:2676" ph="INSERT INTO Sessions... " />
-            <marker date="1515613922374" expanded="true" signature="3540:3611" ph="INSERT INTO Answers... " />
-            <marker date="1515613922374" expanded="true" signature="3540:3614" ph="INSERT INTO Answers... " />
-            <marker date="1515613922374" expanded="true" signature="3750:3822" ph="INSERT INTO Sessions... " />
+            <marker date="1515767625439" expanded="true" signature="2282:2377" ph="INSERT INTO Answers_compare... " />
+            <marker date="1515767625439" expanded="true" signature="2566:2633" ph="INSERT INTO Sessions... " />
+            <marker date="1515767625439" expanded="true" signature="2869:2943" ph="INSERT INTO Answers... " />
+            <marker date="1515767625439" expanded="true" signature="3067:3134" ph="INSERT INTO Sessions... " />
+            <marker date="1515767625439" expanded="true" signature="4090:4161" ph="INSERT INTO Answers... " />
+            <marker date="1515767625439" expanded="true" signature="4090:4164" ph="INSERT INTO Answers... " />
+            <marker date="1515767625439" expanded="true" signature="4300:4372" ph="INSERT INTO Sessions... " />
           </folding>
         </state>
       </provider>

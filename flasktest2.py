@@ -7,18 +7,31 @@ import json
 import datetime
 
 
-MODE = "comparision"
+MODE ="normal" #"comparision"
 
 app = Flask(__name__)
 socketio = SocketIO(app)
-database = sqlite3.connect("C:\\Users\\emile\\Documents\\kolory\\db.db",  check_same_thread=False)
+database = sqlite3.connect("db.db",  check_same_thread=False)
 db_c = database.cursor()
 Answer = namedtuple("Answer",["selections","answer","date"])
 TrainingAnswer = namedtuple("TrainingAnswer",["color","feedback","date"])
 TrainingAnswer2 = namedtuple("TrainingAnswer2",["color","color2","feedback","date"])
 import random
-r = lambda: random.randint(0,255)
-random_color = lambda:'#%02X%02X%02X' % (r(),r(),r())
+r = lambda: random.randint(0,10000)
+#random_color = lambda:'#%02X%02X%02X' % (r(),r(),r())
+def rgb2hex(r,g,b):
+    return "#{:02x}{:02x}{:02x}".format(r,g,b)
+def get_random_color_partial(down_lim=0.0, upper_lim=1.0):
+    d=-1
+    while d<down_lim or d>upper_lim:
+        d=r()/10000
+    return d
+def random_color():
+    h=get_random_color_partial()
+    s=get_random_color_partial()
+    v=get_random_color_partial(down_lim=0.2, upper_lim=0.9)
+    rgb = colorsys.hsv_to_rgb(r()/10000, r()/10000, r()/10000)
+    return rgb2hex(int(rgb[0]*255), int(rgb[1]*255),int(rgb[2]*255))
 class Client:
     @staticmethod
     def print_all():
@@ -66,7 +79,10 @@ def save_client_to_database(client:Client):
     print("saved a client")
 @app.route('/')
 def hello_world():
-    return render_template("trenowaniev2.html")
+    if MODE=="comparision":
+        return render_template("trenowaniev2.html")
+    else:
+        return render_template("trenowanie.html")
 
 @socketio.on("connect")
 def handle_connection():
