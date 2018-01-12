@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9550400-7ea7-4092-be42-51f163c5833f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata" afterPath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata.keystream" afterPath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata.keystream" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata.keystream.len" afterPath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata.keystream.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata.len" afterPath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata_i" afterPath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata_i" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata_i.len" afterPath="$PROJECT_DIR$/.idea/dataSources/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/_metadata_/metadata_i.len" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flasktest2.py" afterPath="$PROJECT_DIR$/flasktest2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/trenowanie.html" afterPath="$PROJECT_DIR$/templates/trenowanie.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/trenowaniev2.html" afterPath="$PROJECT_DIR$/templates/trenowaniev2.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,11 +50,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="flasktest2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="flasktest2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flasktest2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="69" column="86" lean-forward="false" selection-start-line="69" selection-start-column="86" selection-end-line="69" selection-end-column="86" />
+            <state relative-caret-position="629">
+              <caret line="88" column="45" lean-forward="false" selection-start-line="88" selection-start-column="45" selection-end-line="88" selection-end-column="45" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
                 <marker date="1515767625439" expanded="true" signature="2282:2377" ph="INSERT INTO Answers_compare... " />
@@ -76,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="trenowaniev2.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="trenowaniev2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/trenowaniev2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="49" column="9" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="49" selection-end-column="9" />
+            <state relative-caret-position="255">
+              <caret line="68" column="223" lean-forward="false" selection-start-line="68" selection-start-column="223" selection-end-line="68" selection-end-column="223" />
               <folding />
             </state>
           </provider>
@@ -108,8 +101,8 @@
       <file leaf-file-name="trenowanie.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/trenowanie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="476">
+              <caret line="55" column="223" lean-forward="true" selection-start-line="55" selection-start-column="57" selection-end-line="55" selection-end-column="223" />
               <folding />
             </state>
           </provider>
@@ -129,9 +122,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/console.sql" />
-        <option value="$PROJECT_DIR$/templates/trenowaniev2.html" />
-        <option value="$PROJECT_DIR$/templates/trenowanie.html" />
         <option value="$PROJECT_DIR$/flasktest2.py" />
+        <option value="$PROJECT_DIR$/templates/trenowanie.html" />
+        <option value="$PROJECT_DIR$/templates/trenowaniev2.html" />
       </list>
     </option>
   </component>
@@ -401,26 +394,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/trenowaniev2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="49" column="9" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="49" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/trenowanie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/flasktest2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="69" column="86" lean-forward="false" selection-start-line="69" selection-start-column="86" selection-end-line="69" selection-end-column="86" />
+        <state relative-caret-position="629">
+          <caret line="88" column="45" lean-forward="false" selection-start-line="88" selection-start-column="45" selection-end-line="88" selection-end-column="45" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
             <marker date="1515767625439" expanded="true" signature="2282:2377" ph="INSERT INTO Answers_compare... " />
@@ -431,6 +408,22 @@
             <marker date="1515767625439" expanded="true" signature="4090:4164" ph="INSERT INTO Answers... " />
             <marker date="1515767625439" expanded="true" signature="4300:4372" ph="INSERT INTO Sessions... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/trenowanie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="55" column="223" lean-forward="true" selection-start-line="55" selection-start-column="57" selection-end-line="55" selection-end-column="223" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/trenowaniev2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="68" column="223" lean-forward="false" selection-start-line="68" selection-start-column="223" selection-end-line="68" selection-end-column="223" />
+          <folding />
         </state>
       </provider>
     </entry>
