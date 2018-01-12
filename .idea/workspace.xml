@@ -69,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="trenowaniev2.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="trenowaniev2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/trenowaniev2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="68" column="223" lean-forward="false" selection-start-line="68" selection-start-column="223" selection-end-line="68" selection-end-column="223" />
+            <state relative-caret-position="493">
+              <caret line="46" column="8" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -98,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="trenowanie.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="trenowanie.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/trenowanie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="55" column="223" lean-forward="true" selection-start-line="55" selection-start-column="57" selection-end-line="55" selection-end-column="223" />
+            <state relative-caret-position="340">
+              <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -123,8 +123,8 @@
       <list>
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/ab3a0147-20af-4486-b217-dc8e8fc2b2e7/console.sql" />
         <option value="$PROJECT_DIR$/flasktest2.py" />
-        <option value="$PROJECT_DIR$/templates/trenowanie.html" />
         <option value="$PROJECT_DIR$/templates/trenowaniev2.html" />
+        <option value="$PROJECT_DIR$/templates/trenowanie.html" />
       </list>
     </option>
   </component>
@@ -411,18 +411,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/trenowanie.html">
+    <entry file="file://$PROJECT_DIR$/templates/trenowaniev2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="55" column="223" lean-forward="true" selection-start-line="55" selection-start-column="57" selection-end-line="55" selection-end-column="223" />
+        <state relative-caret-position="493">
+          <caret line="46" column="8" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/trenowaniev2.html">
+    <entry file="file://$PROJECT_DIR$/templates/trenowanie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="68" column="223" lean-forward="false" selection-start-line="68" selection-start-column="223" selection-end-line="68" selection-end-column="223" />
+        <state relative-caret-position="340">
+          <caret line="35" column="27" lean-forward="true" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
           <folding />
         </state>
       </provider>
